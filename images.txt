@@ -9,9 +9,9 @@ bitnami/redis-cluster:5.0.14
 bitnami/redis:6.2.14  
 bitnami/redis-sentinel:6.2.14
 bitnami/redis-cluster:6.2.14     
-bitnami/redis:7.2.5      
+bitnami/redis:7.2.5   
+bitnami/redis-sentinel:7.2.5   
 bitnami/redis-cluster:7.2.5      
-bitnami/redis-s:4.4.15
 bitnami/mongodb-sharded:4.4.15
 bitnami/mongodb:5.0.24
 bitnami/mongodb-sharde:5.0.24
@@ -37,5 +37,4 @@ bitnami/minio:2024.6.6
 bitnami/jenkins:2.452.1    
 bitnami/rabbitmq:3.12.14
 bitnami/kafka:3.6.2    
-bitnami/zookeeper:3.9.2  
-bitnami/gradle:8.8.0
+bitnami/zookeeper:3.9.2
