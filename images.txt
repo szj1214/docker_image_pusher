@@ -7,3 +7,4 @@ centos:7.9.2009
 bitnami/java:1.8
 bitnami/java:11
 bitnami/java:17
+bitnami/nginx:1.25.5
