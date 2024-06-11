@@ -1,3 +1,9 @@
-alpine
-kasmweb/nginx:1.25.3
-python:alpine3.19
+alpine:3.20.0
+ubuntu:24.10
+ubuntu:22.04
+ubuntu:20.04
+debian:12.5
+centos:7.9.2009
+bitnami/java:1.8
+bitnami/java:11
+bitnami/java:17
