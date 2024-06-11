@@ -1,7 +1,7 @@
 bitnami/mongodb:4.4.15
 bitnami/mongodb-sharded:4.4.15
 bitnami/mongodb:5.0.24
-bitnami/mongodb-sharde:5.0.24
+bitnami/mongodb-sharded:5.0.24
 bitnami/mongodb:6.0.13
 bitnami/mongodb-sharded:6.0.13
 bitnami/mongodb:7.0.11
